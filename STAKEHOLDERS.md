@@ -28,6 +28,8 @@ Veljið 1–2 af hagsmunaaðilunum hér að ofan og lýsið helstu þörfum þei
 
 ### Þróunarteymi
 **Helstu þarfir:**
+- Fá notendur til að nota appið
+- Halda í notendur/ notendur hætta ekki að nota appið
 
 
 ## Notendahópar
