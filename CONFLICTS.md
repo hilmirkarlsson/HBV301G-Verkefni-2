@@ -2,13 +2,16 @@
 
 ## [Stutt heiti áreksturs]
 
-- **Tegund:**
-   - [ ] Viðskiptaáætlun (*business strategy conflict*)
-   - [ ] Virði krafna (*requirements value conflict*)
-   - [ ] Innihald krafna (*requirements substance conflict*)
-   - [ ] Ferli krafna (*requirements process conflict*)
-  
-- **Átaksþáttur:** [Í hverju felst áreksturinn?]
+
+- **Árekstur:** [Í hverju felst áreksturinn og hvaða kröfur eða þarfir rekast á?]
 - **Hagsmunaaðilar:** [Hvaða hagsmunaaðilar eiga í hlut?]
-- **Þarfir/sjónarmið:** [Hvernig leiða ólíkar þarfir eða sjónarmið hagsmunaaðilanna til árekstursins?]
+- **Orsök:** [Hvað liggur að baki árekstrinum?]
+- **Tegund:**
+  - [ ] Viðfangsefnaárekstur (*subject matter conflict*)
+  - [ ] Gagnaárekstur (*data conflict*)
+  - [ ] Hagsmunaárekstur (*interest conflict*)
+  - [ ] Gildisárekstur (*value conflict*)
+  - [ ] Tengslaárekstur (*relationship conflict*)
+  - [ ] Skipulagsárekstur (*structural conflict*)
+
 - **Úrlausn:** [Leggið til viðeigandi leið til úrlausnar og rökstyðjið valið.]
