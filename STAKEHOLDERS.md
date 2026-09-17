@@ -9,7 +9,7 @@ Greinið helstu hagsmunaaðila vörunnar. Notið töfluna til að lýsa hlutverk
 |---------------|--------|-------------------------------|:-----:|:-----:|
 | Lyftari | notandi | Skráir æfingar og fylgist með framförum | + | ++ |
 | Þróunarteymi  | viðskiptavinur | Smíðar appið og á það | ++ | ++ |
-| App Store og Google Play | annar | Hleypa appinu í dreifingu og setja skilyrði | ++ | o |
+| App Store og Play store | annar | Hleypa appinu í dreifingu og setja skilyrði | ++ | o |
 
 `++` = mikil, `+` = nokkur, `o` = hlutlaus/lítil, `-` = neikvæð.
 
