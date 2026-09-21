@@ -1,15 +1,14 @@
 # Verkefni 2 – Hagsmunaaðilar, Persónur og Árekstrar
-<!-- 
 
-Settu hér inn eigin texta um repository eins og hvert er innihaldið og höfundarnir
-Taktu út textann sem er leiðbeiningatexti frá kennara um verkefnið 
--->
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 2 
+## Heiti kerfis: Settið
+Höfundar: Hilmir Karlsson & Silja Ástudóttir (teymi 1)
 
-Þessi mappa inniheldur skrár og sniðmát fyrir verkefni 2 
-
-- **STAKEHOLDERS.md:** Greining helstu hagsmunaaðila og þarfir þeirra, notendahópar og persona.
-- **CONFLICTS.md:** Árekstrar 
-- **SRS.md:** Stutt útgáfa af Software Requirements Specification, aðeins það sem á við í þessu verkefni.
-- **Vinnuferli.md**
+## Lýsing á kerfinu
+Settið er einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa, fylgja plani sem segir þeim hvað á að gera þann daginn og sjá hvort þyngdirnar eru að hækka.
+## Innihald
+Repo-ið inniheldur lausn okkar á Verkefni 2 í HBV301G Verkfræði kröfugreiningu.
+Skrárnar eru:
+- [STAKEHOLDERS.md](STAKEHOLDERS.md) - Helstu hagsmunaaðilar og þarfir þeirra, notendahópar og persóna
+- [CONFLICTS.md](CONFLICTS.md) - Árekstur milli hagsmunaaðila og tillaga að úrlausn
+- [SRS.md](SRS.md) - Stutt útgáfa af Software Requirements Specification, aðeins það sem á við í þessu verkefni
+- [Vinnuferli.md](Vinnuferli.md) - Verkaskipting, ígrundun og gagnsæisyfirlýsing um notkun gervigreindar
