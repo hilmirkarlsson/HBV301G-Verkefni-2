@@ -15,9 +15,9 @@
 
   Þetta er hagsmunaárekstur því teymið vill mælinguna og notandi vill friðhelgi. Hann er líka gildisárekstur, því annar leggur áherslu á að safna gögnum og hinn á að safna sem minnstu vegna persónuverndar.
 
-- **Úrlausn:** Skapandi lausn (*creative solution strategy*). Appið mælir bara **nafnlausa talningu** og notandi kveikir sjálfur á henni, hún er valfrjáls. Ekkert auðkenni og engin æfingagögn fara úr símanum, bara að einhver skráði æfingu í þessari viku. Þetta brýtur ekki BRG-1, sem bannar bara að afhenda gögn án skýrs samþykkis notanda. En C-2 þarf að breytast aðeins: „enginn server fyrir gögn notandans“ í stað „enginn server“.
+- **Úrlausn:** Skapandi lausn (*creative solution strategy*). Appið notar nafnlaust, tilfallandi auðkenni sem er búið til við uppsetningu og er ekki tengt neinum persónuupplýsingum. Notandi kveikir sjálfur á mælingu (valfrjálst). Serverinn fær aðeins tvær tölur: fjölda nýrra auðkenna í þessari viku og fjölda þeirra sömu auðkenna sem skrá æfingu síðar. Engin æfingagögn eða persónuauðkenni fara úr símanum. Þetta uppfyllir [BRG-1][BRG-1] og [QA-2][QA-2], og gerir [BREQ-1][BREQ-1] einnig mælanlegt. En [C-2][C-2] þarf að breytast aðeins: „enginn server fyrir gögn notandans“ í stað „enginn server“.
 
-  Rökstuðningur: Skapandi lausn leitar að því sem báðir þurfa í raun. Teymið þarf ekki gögnin sjálf, það þarf töluna um hversu margir halda áfram. Lyftari þarf ekki að vera án allra mælinga, hann þarf að æfingarnar hans séu hans. Talning án auðkennis gefur báðum það. Hinar leiðirnar henta verr:
+  Rökstuðningur: Skapandi lausn leitar að því sem báðir þurfa í raun. Teymið þarf ekki gögnin sjálf, það þarf töluna um hversu margir halda áfram. Lyftari þarf ekki að vera án allra mælinga, hann þarf að æfingarnar hans séu hans. Nafnlaust auðkenni og tvær tölur gefa báðum það. Hinar leiðirnar henta verr:
   - Ákvörðunarleið lætur annan aðilann tapa. Tafla 6-3 í W&B (bls. 116) lætur viðskiptavininn ráða, en þar sem teymið er sjálft viðskiptavinurinn og BRG-1 er okkar eigin regla værum við þá að brjóta hana.
 
   Áhætta: Þeir sem kveikja á talningu eru líklega þeir sem nota appið mest, þannig að talan getur orðið hærri en raunverulega haldtalan.
