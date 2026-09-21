@@ -1,35 +1,30 @@
 # Hagsmunaaðilar – flokkun og hlutverk
 
-
 ## Helstu hagsmunaaðilar
 
-Greinið helstu hagsmunaaðila vörunnar. Notið töfluna til að lýsa hlutverki þeirra og meta áhrif þeirra og áhuga.
-
-| Hagsmunaaðili | Tegund | Hlutverk og tengsl við vöruna | Áhrif | Áhugi |
-|---------------|--------|-------------------------------|:-----:|:-----:|
-| Lyftari | notandi | Skráir æfingar og fylgist með framförum | + | ++ |
-| Þróunarteymi  | viðskiptavinur | Smíðar appið og á það | ++ | ++ |
-| App Store og Play store | annar | Hleypa appinu í dreifingu og setja skilyrði | ++ | o |
+| Hagsmunaaðili | Tegund         | Hlutverk og tengsl við vöruna                            | Áhrif | Áhugi |
+|---------------|----------------|----------------------------------------------------------|:-----:|:-----:|
+| Lyftari       | notandi        | Notar appið til að skrá sett, hafa plan og sjá framfarir |   ++  |   ++  |
+| Þróunarteymi  | viðskiptavinur | Skilgreinir markmið, hönnun og viðhald kerfisins         |   ++  |   ++  |
 
 `++` = mikil, `+` = nokkur, `o` = hlutlaus/lítil, `-` = neikvæð.
 
-*Tegund:* Skráið sem notanda, viðskiptavin eða annan hagsmunaaðila eftir því hvaða hlutverk lýsir aðilanum best í þessu samhengi.
-
-
 ## Mikilvægir hagsmunaaðilar og þarfir þeirra
-
-Veljið 1–2 af hagsmunaaðilunum hér að ofan og lýsið helstu þörfum þeirra sem varan þarf að taka mið af.
 
 ### Lyftari
 **Helstu þarfir:**
-- Skráning sem tefur ekki æfinguna
-- Að þurfa ekki að muna hvað hann tók síðast
-
+- Hraðvirk skráning sem truflar ekki æfinguna.
+- Að þurfa ekki að muna hvað hann tók síðast.
+- Skýrt plan fyrir daginn.
+- Sýnilegar framfarir, til hvatningar.
 
 ### Þróunarteymi
 **Helstu þarfir:**
-- Fá notendur til að nota appið
-- Halda í notendur/ notendur hætta ekki að nota appið
+- Halda í notendur, notendur halda áfram að nota appið.
+- Náttúruleg fjölgun á notendum án markaðskostnaðar.
+- Einfalt kerfi með skýrum mörkum og lágum viðhaldskostnaði.
+
+Samantekt: Lyftari og þróunarteymi fá bæði mikil áhrif og mikinn áhuga vegna þess að kerfið stendur og fellur með notkun þess og hönnun. Lyftari mótar allar notendakröfur í gegnum þarfir sínar og daglega notkun á meðan þróunarteymið skilgreinir markmið, afmörkun og forgangsröðun kerfisins.
 
 ## Notendahópar
 
@@ -54,8 +49,8 @@ Helstu notendahópar vörunnar.
 
 ## Persona fyrir valinn notendahóp
 
-- **Nafn:** Aron Markús Helgason
+- **Nafn:** Aron Bjarkason
 - **Notendahópur:** Methafinn
 - **Starf/hlutverk:** Dyravörður
 - **Markmið og þarfir:** Markmið hans eru að skrá sett á nokkrum sekúndum og að sjá persónuleg met. Hann vill hafa hraðvirkt og minimalískt viðmót, enga truflun frá appinu. Vill geta notað appið án nettengingar.
-- **Lýsing:** Aron hefur stundað líkamsrækt lengi enda starfað sem dyravörður í mörg ár. Það skiptir hann máli að fara mjög reglulega í ræktinni og bæði viðhalda sínu formi sem og að bæta sig. Hann veit nákvæmlega hvað hann á að gera í hverri æfingu og þarf ekki leiðbeiningar. Hann vill bara skrá sett hratt og halda áfram. Hann vill geta haldið utan um hvað hann var að gera síðast svo hann sé að æfa jafnt og hafi góða yfirsýn. Honum er umhugað um bætingar í ræktinni og vill fá tilkynningu þegar hann slær persónuleg met. Hann þolir ekki flókin viðmót, pop-ups eða óþarfa skref. Tengist kröfum UR‑1 og UR‑6.
+- **Lýsing:** Aron hefur stundað líkamsrækt lengi enda starfað sem dyravörður í mörg ár. Það skiptir hann máli að fara mjög reglulega í ræktinni og bæði viðhalda sínu formi sem og að bæta sig. Hann veit nákvæmlega hvað hann á að gera í hverri æfingu og þarf ekki leiðbeiningar. Hann vill bara skrá sett hratt og halda áfram. Hann vill geta haldið utan um hvað hann var að gera síðast svo hann sé að æfa jafnt og hafi góða yfirsýn. Honum er umhugað um bætingar í ræktinni og sjá þegar hann slær persónuleg met. Hann þolir ekki flókin viðmót, pop-ups eða óþarfa skref. Tengist kröfum UR‑1 og UR‑6.
