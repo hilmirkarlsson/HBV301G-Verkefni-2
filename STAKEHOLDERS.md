@@ -42,7 +42,7 @@ Helstu notendahópar vörunnar.
 
 ### [Ráfarinn]
 - **Tegund:** [x] Beinn notandi  [ ] Óbeinn notandi
-- **Lýsing:** Notandi sem mætir í ræktina en veit aldrei hvað hann ætti að gera næst og ráfar bara á milli tækja. Þessum notanda vantar skýrt plan til að hætta að ráfa og byrja að ná árangri. Þessi hópur þarf að sjá strax „hvað er í dag“ til að minnka ákvarðanatöku og auka stöðugleika í æfingum. Tengist kröfu UR‑3.
+- **Lýsing:** Notandi sem mætir í ræktina en veit aldrei hvað hann ætti að gera næst og ráfar bara á milli tækja. Þessum notanda vantar skýrt plan til að hætta að ráfa og byrja að ná árangri. Þessi hópur þarf að sjá strax „hvað er planið í dag“ til að minnka ákvarðanatöku og auka stöðugleika í æfingum. Tengist kröfu UR‑3.
 
 ### [Sér engar framfarir]
 - **Tegund:** [x] Beinn notandi  [ ] Óbeinn notandi
